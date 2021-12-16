@@ -1,0 +1,23 @@
+{
+    "status": 0,
+    "dList": [
+        {
+            "deviceName": "device1",
+            "deviceId": "1",
+            "position": "会议室1",
+            "comments": ""
+        },
+        {
+            "deviceName": "device2",
+            "deviceId": "2",
+            "position": "会议室2",
+            "comments": ""
+        },
+        {
+            "deviceName": "device3",
+            "deviceId": "3",
+            "position": "会议室3",
+            "comments": ""
+        }],
+    "msg": ""
+}

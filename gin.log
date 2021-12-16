@@ -1,0 +1,7 @@
+[GIN-debug] GET    /etc/hosts/*filepath      --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /etc/hosts/*filepath      --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Environment variable PORT="3001"
+[GIN-debug] Listening and serving HTTP on :3001
+[GIN-debug] redirecting request 301: /etc/hosts/ --> /etc/hosts/
